@@ -1,1 +1,1 @@
-# Calculus_and_Numerical_Methods
+# Calculus and Numerical Methods for solving ODE (ordinary differential equations) and PDE (partial differential equations)
